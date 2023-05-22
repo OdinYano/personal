@@ -2,15 +2,15 @@ import pyttsx3
 import datetime
 import speech_recognition as sr
 import time
-from chatterbot import ChatBot
-from chatterbot.trainers import ChatterBotCorpusTrainer
+#from chatterbot import ChatBot
+#from chatterbot.trainers import ChatterBotCorpusTrainer
 
 # Cria um chatbot
-chatbot = ChatBot('MeuChatBot')
+#chatbot = ChatBot('MeuChatBot')
 
 # Treina o chatbot com base em um conjunto de dados de conversas pré-existentes
-trainer = ChatterBotCorpusTrainer(chatbot)
-trainer.train("chatterbot.corpus.portuguese")
+#trainer = ChatterBotCorpusTrainer(chatbot)
+#trainer.train("chatterbot.corpus.portuguese")
 
 # Função da fala
 texto_fala = pyttsx3.init()
@@ -96,5 +96,5 @@ if __name__ == "__main__":
         elif 'desligar' in comando:
             falar("Até logo!")
             quit()
-        else:
-            falar(chatbot.get_response(comando))
+        #else:
+            #falar(chatbot.get_response(comando))
