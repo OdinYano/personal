@@ -30,3 +30,4 @@ while True:
     # Se o usuário digitar "sair", encerre o loop principal
     except (KeyboardInterrupt, EOFError, SystemExit):
         break
+    

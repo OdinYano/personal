@@ -1,0 +1,47 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import RandomForestClassifier
+from sklearn import metrics
+import math
+
+# carrega o conjunto de dados
+dados = pd.read_csv('train.csv')
+
+# Prepara as colunas para o treino
+def transformar_sexo(valor):
+    if valor == 'female':
+        return 1
+    else:
+        return 0
+dados['Sex_binario']= dados['Sex'].map(transformar_sexo)
+
+def transformar_idade(valor):
+    if math.isnan(valor):
+        return 0
+    return int(round(valor))
+dados['Idade']= dados['Age'].map(transformar_idade)
+
+variaveis = ['Sex_binario', 'Idade', 'Pclass']
+
+# divide o conjunto de dados em treinamento e teste
+y = dados['Survived']
+x = dados[variaveis]
+
+x_treino, x_teste, y_treino, y_teste = train_test_split(x, y, test_size=0.3)
+
+# Criar a IA
+modelo_regressaolinear = LinearRegression()
+modelo_arvoredecisao = RandomForestClassifier()
+
+# Treinar a IA
+modelo_regressaolinear.fit(x_treino, y_treino)
+modelo_arvoredecisao.fit(x_treino, y_treino)
+
+# criar as previsoes
+previsao_regressaolinear = modelo_regressaolinear.predict(x_teste)
+previsao_arvoredecisao = modelo_arvoredecisao.predict(x_teste)
+
+# comparar os modelos
+print(metrics.r2_score(y_teste, previsao_regressaolinear))
+print(metrics.r2_score(y_teste, previsao_arvoredecisao)) 
