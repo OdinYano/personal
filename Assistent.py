@@ -2,8 +2,8 @@ import pyttsx3
 import datetime
 import speech_recognition as sr
 import time
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+import tensorflow as tf
+from tensorflow import keras
 import pandas as pd
 
 # Carregando os dados de treinamento
@@ -11,22 +11,41 @@ data = pd.read_csv('treinamento.csv')
 perguntas = data['Pergunta'].values
 respostas = data['Resposta'].values
 
-# Criando o vetorizador
-vectorizer = TfidfVectorizer()
-vectorizer.fit(perguntas)
+# Pré-processando os dados de treinamento
+tokenizer = keras.preprocessing.text.Tokenizer()
+tokenizer.fit_on_texts(perguntas)
+X_train = tokenizer.texts_to_sequences(perguntas)
+maxlen = max([len(x) for x in X_train])
+X_train = keras.preprocessing.sequence.pad_sequences(X_train, maxlen=maxlen)
+
+# Codificando as respostas
+label_tokenizer = keras.preprocessing.text.Tokenizer()
+label_tokenizer.fit_on_texts(respostas)
+y_train = label_tokenizer.texts_to_sequences(respostas)
+
+# Criando o modelo
+model = keras.Sequential()
+model.add(keras.layers.Embedding(len(tokenizer.word_index)+1, 64, input_length=maxlen))
+model.add(keras.layers.Bidirectional(keras.layers.LSTM(20)))
+model.add(keras.layers.Dense(len(label_tokenizer.word_index)+1, activation='softmax'))
+model.compile(loss='sparse_categorical_crossentropy', optimizer='adam')
+
+# Treinando o modelo
+model.fit(X_train, y_train, epochs=10)
 
 def get_response(user_input):
-    # Vetorizando a entrada do usuário
-    user_input_vector = vectorizer.transform([user_input])
+    # Pré-processando a entrada do usuário
+    user_input = tokenizer.texts_to_sequences([user_input])
+    user_input = keras.preprocessing.sequence.pad_sequences(user_input, maxlen=maxlen)
     
-    # Calculando a similaridade com as perguntas de treinamento
-    similarity = cosine_similarity(user_input_vector, vectorizer.transform(perguntas))
+    # Fazendo a previsão
+    prediction = model.predict(user_input)
+    index = prediction.argmax()
     
-    # Encontrando a pergunta mais similar
-    index = similarity.argmax()
+    # Decodificando a resposta
+    response = label_tokenizer.sequences_to_texts([[index]])[0]
     
-    # Retornando a resposta correspondente
-    return respostas[index]
+    return response
 
 # Função da fala
 texto_fala = pyttsx3.init()
