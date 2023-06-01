@@ -1,0 +1,15 @@
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\bin\Debug\net6.0\Manipulacao_arquivos.exe
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\bin\Debug\net6.0\Manipulacao_arquivos.deps.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\bin\Debug\net6.0\Manipulacao_arquivos.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\bin\Debug\net6.0\Manipulacao_arquivos.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\bin\Debug\net6.0\Manipulacao_arquivos.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\Manipulacao_arquivos.csproj.AssemblyReference.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\Manipulacao_arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\Manipulacao_arquivos.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\Manipulacao_arquivos.AssemblyInfo.cs
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\Manipulacao_arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\Manipulacao_arquivos.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\refint\Manipulacao_arquivos.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\Manipulacao_arquivos.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\Manipulacao_arquivos.genruntimeconfig.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulacao_arquivos\Manipulacao_arquivos\obj\Debug\net6.0\ref\Manipulacao_arquivos.dll

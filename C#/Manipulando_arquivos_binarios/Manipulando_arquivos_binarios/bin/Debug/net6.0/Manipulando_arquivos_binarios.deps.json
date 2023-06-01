@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Manipulando_arquivos_binarios/1.0.0": {
+        "runtime": {
+          "Manipulando_arquivos_binarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manipulando_arquivos_binarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

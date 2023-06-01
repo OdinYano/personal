@@ -1,0 +1,15 @@
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\bin\Debug\net6.0\Manipulando_arquivos_binarios.exe
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\bin\Debug\net6.0\Manipulando_arquivos_binarios.deps.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\bin\Debug\net6.0\Manipulando_arquivos_binarios.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\bin\Debug\net6.0\Manipulando_arquivos_binarios.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\bin\Debug\net6.0\Manipulando_arquivos_binarios.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\Manipulando_arquivos_binarios.csproj.AssemblyReference.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\Manipulando_arquivos_binarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\Manipulando_arquivos_binarios.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\Manipulando_arquivos_binarios.AssemblyInfo.cs
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\Manipulando_arquivos_binarios.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\Manipulando_arquivos_binarios.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\refint\Manipulando_arquivos_binarios.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\Manipulando_arquivos_binarios.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\Manipulando_arquivos_binarios.genruntimeconfig.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Manipulando_arquivos_binarios\Manipulando_arquivos_binarios\obj\Debug\net6.0\ref\Manipulando_arquivos_binarios.dll
