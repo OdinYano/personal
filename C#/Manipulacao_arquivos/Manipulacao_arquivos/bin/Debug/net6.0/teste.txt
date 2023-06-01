@@ -1,0 +1,10 @@
+namespace Novo_projeto
+
+{
+    class Program
+    {
+        static void Main(string[] args) 
+        {
+        }
+    }
+}

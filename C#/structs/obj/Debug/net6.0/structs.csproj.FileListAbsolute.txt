@@ -1,0 +1,15 @@
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\structs.csproj.AssemblyReference.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\structs.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\structs.AssemblyInfo.cs
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\structs.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\bin\Debug\net6.0\structs.exe
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\bin\Debug\net6.0\structs.deps.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\bin\Debug\net6.0\structs.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\bin\Debug\net6.0\structs.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\bin\Debug\net6.0\structs.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\structs.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\refint\structs.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\structs.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\structs.genruntimeconfig.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\structs\obj\Debug\net6.0\ref\structs.dll

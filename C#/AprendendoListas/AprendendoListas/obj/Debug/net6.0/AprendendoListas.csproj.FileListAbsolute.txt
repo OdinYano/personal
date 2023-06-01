@@ -1,0 +1,15 @@
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\bin\Debug\net6.0\AprendendoListas.exe
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\bin\Debug\net6.0\AprendendoListas.deps.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\bin\Debug\net6.0\AprendendoListas.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\bin\Debug\net6.0\AprendendoListas.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\bin\Debug\net6.0\AprendendoListas.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\AprendendoListas.csproj.AssemblyReference.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\AprendendoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\AprendendoListas.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\AprendendoListas.AssemblyInfo.cs
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\AprendendoListas.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\AprendendoListas.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\refint\AprendendoListas.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\AprendendoListas.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\AprendendoListas.genruntimeconfig.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\AprendendoListas\AprendendoListas\obj\Debug\net6.0\ref\AprendendoListas.dll
