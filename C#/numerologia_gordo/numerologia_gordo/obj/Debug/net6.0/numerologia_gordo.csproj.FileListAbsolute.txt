@@ -1,0 +1,15 @@
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\bin\Debug\net6.0\numerologia_gordo.exe
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\bin\Debug\net6.0\numerologia_gordo.deps.json
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\bin\Debug\net6.0\numerologia_gordo.runtimeconfig.json
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\bin\Debug\net6.0\numerologia_gordo.dll
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\bin\Debug\net6.0\numerologia_gordo.pdb
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\numerologia_gordo.csproj.AssemblyReference.cache
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\numerologia_gordo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\numerologia_gordo.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\numerologia_gordo.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\numerologia_gordo.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\numerologia_gordo.dll
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\refint\numerologia_gordo.dll
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\numerologia_gordo.pdb
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\numerologia_gordo.genruntimeconfig.cache
+C:\Users\Desktop\source\repos\numerologia_gordo\numerologia_gordo\obj\Debug\net6.0\ref\numerologia_gordo.dll

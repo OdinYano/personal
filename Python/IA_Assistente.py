@@ -116,11 +116,11 @@ def extrair_calculo(comando):
     falar(str(resposta))
 
 def resposta_bucador(pergunta):
-    #options = webdriver.ChromeOptions()
-    #options.add_argument("--headless=new")
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless=new")
 
-    #navegador = webdriver.Chrome(options=options)
-    navegador = webdriver.Chrome()
+    navegador = webdriver.Chrome(options=options)
+    #navegador = webdriver.Chrome()
     navegador.get('https://google.com.br')
     pesquisa = navegador.find_element('id','APjFqb')
     pesquisa.send_keys(f"{pergunta} \n ")
@@ -130,7 +130,7 @@ def resposta_bucador(pergunta):
 
     palavra_inicio = "Descrição"
     palavra_fim = "― Google"
-    start_index = resposta.find(palavra_inicio)
+    start_index = resposta.find(palavra_inicio)+ 9
     end_index = resposta.find(palavra_fim, start_index) + len(palavra_fim)
     if end_index < 9:
         palavra_fim = "Wikipédia"
@@ -149,7 +149,7 @@ if __name__ == "__main__":
         print("Escutando...")
         comando = microfone().lower()
 
-        if 'horas são' in comando:
+        if 'horas são' in comando or 'hora é' in comando:
             tempo()
         elif 'data de hoje' in comando:
             data()
