@@ -1,0 +1,15 @@
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\bin\Debug\net6.0\Gestor_clientes.exe
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\bin\Debug\net6.0\Gestor_clientes.deps.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\bin\Debug\net6.0\Gestor_clientes.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\bin\Debug\net6.0\Gestor_clientes.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\bin\Debug\net6.0\Gestor_clientes.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\Gestor_clientes.csproj.AssemblyReference.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\Gestor_clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\Gestor_clientes.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\Gestor_clientes.AssemblyInfo.cs
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\Gestor_clientes.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\Gestor_clientes.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\refint\Gestor_clientes.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\Gestor_clientes.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\Gestor_clientes.genruntimeconfig.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Gestor_clientes\Gestor_clientes\obj\Debug\net6.0\ref\Gestor_clientes.dll
