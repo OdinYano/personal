@@ -1,0 +1,15 @@
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\bin\Debug\net6.0\GestorEstoque.exe
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\bin\Debug\net6.0\GestorEstoque.deps.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\bin\Debug\net6.0\GestorEstoque.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\bin\Debug\net6.0\GestorEstoque.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\bin\Debug\net6.0\GestorEstoque.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\GestorEstoque.csproj.AssemblyReference.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\GestorEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\GestorEstoque.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\GestorEstoque.AssemblyInfo.cs
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\GestorEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\GestorEstoque.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\refint\GestorEstoque.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\GestorEstoque.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\GestorEstoque.genruntimeconfig.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\GestorEstoque\GestorEstoque\obj\Debug\net6.0\ref\GestorEstoque.dll
