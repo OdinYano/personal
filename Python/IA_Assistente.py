@@ -117,10 +117,10 @@ def extrair_calculo(comando):
 
 def resposta_bucador(pergunta):
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless=new")
+    # options.add_argument("--headless=new")
 
-    navegador = webdriver.Chrome(options=options)
-    #navegador = webdriver.Chrome()
+    #navegador = webdriver.Chrome(options=options)
+    navegador = webdriver.Chrome()
     navegador.get('https://google.com.br')
     pesquisa = navegador.find_element('id','APjFqb')
     pesquisa.send_keys(f"{pergunta} \n ")
