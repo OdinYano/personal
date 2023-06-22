@@ -1,0 +1,15 @@
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\bin\Release\net6.0\numerologia_console.exe
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\bin\Release\net6.0\numerologia_console.deps.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\bin\Release\net6.0\numerologia_console.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\bin\Release\net6.0\numerologia_console.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\bin\Release\net6.0\numerologia_console.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\numerologia_console.csproj.AssemblyReference.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\numerologia_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\numerologia_console.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\numerologia_console.AssemblyInfo.cs
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\numerologia_console.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\numerologia_console.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\refint\numerologia_console.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\numerologia_console.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\numerologia_console.genruntimeconfig.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia_console\numerologia_console\obj\Release\net6.0\ref\numerologia_console.dll

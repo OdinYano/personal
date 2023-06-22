@@ -1,0 +1,17 @@
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\bin\Debug\net6.0-windows\numerologia.exe
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\bin\Debug\net6.0-windows\numerologia.deps.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\bin\Debug\net6.0-windows\numerologia.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\bin\Debug\net6.0-windows\numerologia.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\bin\Debug\net6.0-windows\numerologia.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.csproj.AssemblyReference.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.Form1.resources
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.csproj.GenerateResource.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.AssemblyInfo.cs
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\refint\numerologia.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\numerologia.genruntimeconfig.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Projetos\numerologia\numerologia\obj\Debug\net6.0-windows\ref\numerologia.dll

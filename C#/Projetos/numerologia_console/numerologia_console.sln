@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numerologia_console", "numerologia_console\numerologia_console.csproj", "{52AB5C8F-FA71-4355-905F-680CEAE71631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AB5C8F-FA71-4355-905F-680CEAE71631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AB5C8F-FA71-4355-905F-680CEAE71631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AB5C8F-FA71-4355-905F-680CEAE71631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AB5C8F-FA71-4355-905F-680CEAE71631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78265557-D9C8-46A6-BBDD-1DCDA9826C7E}
+	EndGlobalSection
+EndGlobal
