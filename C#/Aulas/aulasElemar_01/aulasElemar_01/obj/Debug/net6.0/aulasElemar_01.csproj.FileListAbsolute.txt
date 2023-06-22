@@ -1,0 +1,15 @@
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\bin\Debug\net6.0\aulasElemar_01.exe
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\bin\Debug\net6.0\aulasElemar_01.deps.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\bin\Debug\net6.0\aulasElemar_01.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\bin\Debug\net6.0\aulasElemar_01.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\bin\Debug\net6.0\aulasElemar_01.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\aulasElemar_01.csproj.AssemblyReference.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\aulasElemar_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\aulasElemar_01.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\aulasElemar_01.AssemblyInfo.cs
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\aulasElemar_01.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\aulasElemar_01.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\refint\aulasElemar_01.dll
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\aulasElemar_01.pdb
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\aulasElemar_01.genruntimeconfig.cache
+C:\Users\Desktop\Documents\GitHub\personal\C#\Aulas\aulasElemar_01\aulasElemar_01\obj\Debug\net6.0\ref\aulasElemar_01.dll

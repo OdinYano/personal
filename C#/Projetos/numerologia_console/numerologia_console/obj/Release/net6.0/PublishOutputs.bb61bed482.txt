@@ -1,0 +1,5 @@
+C:\Users\Desktop\Desktop\apps\numerologia_console.exe
+C:\Users\Desktop\Desktop\apps\numerologia_console.dll
+C:\Users\Desktop\Desktop\apps\numerologia_console.deps.json
+C:\Users\Desktop\Desktop\apps\numerologia_console.runtimeconfig.json
+C:\Users\Desktop\Desktop\apps\numerologia_console.pdb
