@@ -6,6 +6,7 @@ import tensorflow as tf
 from tensorflow import keras
 import pandas as pd
 
+
 # Carregando os dados de treinamento
 data = pd.read_csv('treinamento.csv')
 perguntas = data['Pergunta'].values
