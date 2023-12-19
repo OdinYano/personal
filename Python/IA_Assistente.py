@@ -30,9 +30,28 @@ def tempo():
 def data():
     now = datetime.datetime.now()
     dia = now.strftime("%d")
-    mes = now.strftime("%B")
+    mes = traduz_mes(now.strftime("%B"))
     ano = now.strftime("%Y")
     falar(f"A data atual é {dia}, de {mes}, de {ano}")
+
+def traduz_mes(mes):
+
+  traducao = {
+    "January": "Janeiro",
+    "February": "Fevereiro",
+    "March": "Março",
+    "April": "Abril",
+    "May": "Maio",
+    "June": "Junho",
+    "July": "Julho",
+    "August": "Agosto",
+    "September": "Setembro",
+    "October": "Outubro",
+    "November": "Novembro",
+    "December": "Dezembro",
+  }
+
+  return traducao.get(mes)
 
 # Função de início do programa    
 def bem_vindo():
@@ -82,8 +101,10 @@ def previsao_tempo():
 
     navegador = webdriver.Chrome(options=options)
     falar("Para a previsão do tempo, preciso que responda duas perguntas primeiro a cidade depois a sigra do estado. Diga o nome da cidade: ")
+    print("Escutando...")
     cidade = microfone().lower().replace(" ","-")
     falar("Agora a sigla do estado: ")
+    print("Escutando...")
     cidade = (f"{cidade}-{microfone().lower()}")
 
     navegador.get(f'https://www.otempo.com.br/tempo/{cidade}')
@@ -117,7 +138,7 @@ def extrair_calculo(comando):
 
 def resposta_bucador(pergunta):
     options = webdriver.ChromeOptions()
-    # options.add_argument("--headless=new")
+    options.add_argument("--headless=new")
 
     #navegador = webdriver.Chrome(options=options)
     navegador = webdriver.Chrome()
