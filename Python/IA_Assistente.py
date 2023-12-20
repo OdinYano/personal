@@ -73,6 +73,8 @@ def bem_vindo():
 # Função de entrada de dados por voz
 def microfone():
     r = sr.Recognizer()
+    print("Escutando...")
+    
     with sr.Microphone() as source:
         r.pause_threshold = 1
         audio = r.listen(source)
@@ -80,16 +82,20 @@ def microfone():
         print("Reconhecendo...")
         comando = r.recognize_google(audio, language='pt')
         print(comando)
+
     except sr.UnknownValueError:
         mensagem = "Não foi possível reconhecer a fala. Por favor, repita."
         print(mensagem)
         falar(mensagem)
         comando = ""
+        microfone()
+        
     except sr.RequestError:
         mensagem = "O serviço de reconhecimento de fala não está disponível."
         print(mensagem)
         falar(mensagem)
         comando = ""
+        microfone()
     
     return comando
 
@@ -101,10 +107,9 @@ def previsao_tempo():
 
     navegador = webdriver.Chrome(options=options)
     falar("Para a previsão do tempo, preciso que responda duas perguntas primeiro a cidade depois a sigra do estado. Diga o nome da cidade: ")
-    print("Escutando...")
     cidade = microfone().lower().replace(" ","-")
     falar("Agora a sigla do estado: ")
-    print("Escutando...")
+    
     cidade = (f"{cidade}-{microfone().lower()}")
 
     navegador.get(f'https://www.otempo.com.br/tempo/{cidade}')
@@ -146,6 +151,7 @@ def resposta_bucador(pergunta):
     pesquisa = navegador.find_element('id','APjFqb')
     pesquisa.send_keys(f"{pergunta} \n ")
 
+    time.sleep(5)
     
     resposta = navegador.find_element('id','kp-wp-tab-overview').text
 
@@ -167,7 +173,6 @@ if __name__ == "__main__":
 
     while True:
         comando = ""
-        print("Escutando...")
         comando = microfone().lower()
 
         if 'horas são' in comando or 'hora é' in comando:
